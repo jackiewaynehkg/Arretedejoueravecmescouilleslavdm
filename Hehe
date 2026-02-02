@@ -111,7 +111,7 @@
   <canvas id="confettiCanvas"></canvas>
 
   <main class="card">
-    <h1>nirali, veux-tu être ma Valentine ? 💘</h1>
+    <h1>Sabrine, veux-tu être ma Valentine ? 💘</h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Oui</button>
